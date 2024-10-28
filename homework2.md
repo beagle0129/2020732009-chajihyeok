@@ -1,4 +1,5 @@
 이번강의는 github collaborator에 관한 내용이며 수정사항은 아래와 같습니다
+![image](https://github.com/user-attachments/assets/d7a7551f-ed77-47b9-8352-e640deb6c6e9)
 
 ![image](https://github.com/user-attachments/assets/f7dd0a80-21bd-489a-b102-f1c72f059982)
 
